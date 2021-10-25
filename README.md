@@ -5,3 +5,4 @@
 4. [Cost-Efficient Open Source Big Data Platform at Uber](https://eng.uber.com/cost-efficient-big-data-platform/)
 5. [Building a streaming video analytics pipeline](https://cloud.google.com/architecture/building-a-streaming-video-analytics-pipeline?hl=en)
 6. [Data Warehouse Architecture](https://www.geeksforgeeks.org/data-warehouse-architecture/)
+7. [Data Mart](https://hevodata.com/learn/data-mart/)
