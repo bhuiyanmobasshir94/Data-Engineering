@@ -8,3 +8,4 @@
 7. [Data Mart](https://hevodata.com/learn/data-mart/)
 8. [Data mart oracle](https://docs.oracle.com/cd/A81042_01/DOC/server.816/a76994/marts.htm)
 9. [Database Management System (DBMS)](https://www.geeksforgeeks.org/dbms/)
+10. [Data Warehouse Design: A Comprehensive Guide](https://hevodata.com/learn/data-warehouse-design-a-comprehensive-guide/)
