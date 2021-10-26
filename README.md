@@ -10,3 +10,4 @@
 9. [Database Management System (DBMS)](https://www.geeksforgeeks.org/dbms/)
 10. [Data Warehouse Design: A Comprehensive Guide](https://hevodata.com/learn/data-warehouse-design-a-comprehensive-guide/)
 11. [WHAT IS AN ENTERPRISE DATA WAREHOUSE?](https://www.snowflake.com/guides/what-enterprise-data-warehouse)
+12. [Data Warehouse Implementation](https://www.javatpoint.com/data-warehouse-implementation)
