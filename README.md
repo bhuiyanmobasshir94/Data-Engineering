@@ -11,3 +11,4 @@
 10. [Data Warehouse Design: A Comprehensive Guide](https://hevodata.com/learn/data-warehouse-design-a-comprehensive-guide/)
 11. [WHAT IS AN ENTERPRISE DATA WAREHOUSE?](https://www.snowflake.com/guides/what-enterprise-data-warehouse)
 12. [Data Warehouse Implementation](https://www.javatpoint.com/data-warehouse-implementation)
+13. [Running a Data Warehouse on PostgreSQL](https://severalnines.com/database-blog/running-data-warehouse-postgresql)
