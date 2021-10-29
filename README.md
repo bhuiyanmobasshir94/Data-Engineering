@@ -12,3 +12,6 @@
 11. [WHAT IS AN ENTERPRISE DATA WAREHOUSE?](https://www.snowflake.com/guides/what-enterprise-data-warehouse)
 12. [Data Warehouse Implementation](https://www.javatpoint.com/data-warehouse-implementation)
 13. [Running a Data Warehouse on PostgreSQL](https://severalnines.com/database-blog/running-data-warehouse-postgresql)
+14. [Smart analytics reference patterns](https://cloud.google.com/architecture/reference-patterns/overview?hl=en)
+15. [Building production-ready data pipelines using Dataflow: Overview](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-overview)
+16. [What is BigQuery ML? ](https://cloud.google.com/bigquery-ml/docs/introduction)
