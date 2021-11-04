@@ -18,6 +18,8 @@
 17. [Migrating data warehouses to BigQuery: Introduction and overview ](https://cloud.google.com/architecture/dw2bq/dw-bq-migration-overview)
 18. [A guide to data warehousing clickstream data](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data)
 
-
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
+
+## Guideline
+1. [10 Steps to get a Data Engineering job](https://medium.com/plumbersofdatascience/10-steps-to-get-a-data-engineering-job-8e8084295296)
