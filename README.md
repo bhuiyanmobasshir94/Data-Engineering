@@ -17,6 +17,7 @@
 16. [What is BigQuery ML? ](https://cloud.google.com/bigquery-ml/docs/introduction)
 17. [Migrating data warehouses to BigQuery: Introduction and overview ](https://cloud.google.com/architecture/dw2bq/dw-bq-migration-overview)
 18. [A guide to data warehousing clickstream data](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data)
+19. [Batch is a special case of streaming](https://www.ververica.com/blog/batch-is-a-special-case-of-streaming)
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
