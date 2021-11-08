@@ -21,6 +21,7 @@
 20. [How to Build a Data Warehouse Using PostgreSQL in Python?](https://www.analyticsvidhya.com/blog/2021/06/how-to-build-a-data-warehouse-using-postgresql-in-python/)
 21. [Using Python and MySQL in the ETL Process: Using Python and SQLAlchemy](https://vertabelo.com/blog/using-python-and-mysql-in-the-etl-process-using-python-and-sqlalchemy/)
 22. [Data Engineering and Its Main Concepts: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)
+23. [Using Chunksize in Pandas](https://acepor.github.io/2017/08/03/using-chunksize/)
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
