@@ -18,6 +18,9 @@
 17. [Migrating data warehouses to BigQuery: Introduction and overview ](https://cloud.google.com/architecture/dw2bq/dw-bq-migration-overview)
 18. [A guide to data warehousing clickstream data](https://stacktome.com/blog/a-guide-to-data-warehousing-clickstream-data)
 19. [Batch is a special case of streaming](https://www.ververica.com/blog/batch-is-a-special-case-of-streaming)
+20. [How to Build a Data Warehouse Using PostgreSQL in Python?](https://www.analyticsvidhya.com/blog/2021/06/how-to-build-a-data-warehouse-using-postgresql-in-python/)
+21. [Using Python and MySQL in the ETL Process: Using Python and SQLAlchemy](https://vertabelo.com/blog/using-python-and-mysql-in-the-etl-process-using-python-and-sqlalchemy/)
+22. [Data Engineering and Its Main Concepts: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
