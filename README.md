@@ -22,6 +22,8 @@
 21. [Using Python and MySQL in the ETL Process: Using Python and SQLAlchemy](https://vertabelo.com/blog/using-python-and-mysql-in-the-etl-process-using-python-and-sqlalchemy/)
 22. [Data Engineering and Its Main Concepts: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)
 23. [Using Chunksize in Pandas](https://acepor.github.io/2017/08/03/using-chunksize/)
+24. [Database design basics](https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)
+25. [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
