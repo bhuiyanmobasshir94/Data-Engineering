@@ -25,7 +25,10 @@
 24. [Database design basics](https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)
 25. [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 26. [17 Strategies for Dealing with Data, Big Data, and Even Bigger Data](https://towardsdatascience.com/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)
-27. [Hadoop Ecosystem](https://medium.com/xnewdata/hadoop-ecosystem-e9288755cfa1)
+
+## Hadoop Ecosystem
+1. [Hadoop Ecosystem](https://medium.com/xnewdata/hadoop-ecosystem-e9288755cfa1)
+2. [Big Data 101](https://cognitiveclass.ai/courses/what-is-big-data) ~ [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop) ~ [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark)
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
