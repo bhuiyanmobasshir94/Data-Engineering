@@ -28,7 +28,11 @@
 
 ## Hadoop Ecosystem
 1. [Hadoop Ecosystem](https://medium.com/xnewdata/hadoop-ecosystem-e9288755cfa1)
-2. [Big Data 101](https://cognitiveclass.ai/courses/what-is-big-data) ~ [Hadoop 101](https://cognitiveclass.ai/courses/introduction-to-hadoop) ~ [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark)
+2. [Spark Fundamentals](https://cognitiveclass.ai/learn/spark)
+3. [Hadoop Fundamentals](https://cognitiveclass.ai/learn/hadoop)
+4. [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data)
+5. [Scala Programming for Data Science](https://cognitiveclass.ai/learn/scala)
+
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
