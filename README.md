@@ -36,6 +36,7 @@
 ## Curated Article
 - [Big Data Analyses with Machine Learning and PySpark](https://towardsdatascience.com/big-data-analyses-with-machine-learning-and-pyspark-135119ef6b31)
 - [Tutorial: Building your Own Big Data Infrastructure for Data Science](https://towardsdatascience.com/tutorial-building-your-own-big-data-infrastructure-for-data-science-579ae46880d8)
+- [PySpark on Google Colab 101](https://towardsdatascience.com/pyspark-on-google-colab-101-d31830b238be)
 
 ## Courses
 1. [Data Engineering](https://learndataengineering.com/p/academy)
