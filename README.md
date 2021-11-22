@@ -26,6 +26,19 @@
 25. [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 26. [17 Strategies for Dealing with Data, Big Data, and Even Bigger Data](https://towardsdatascience.com/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)
 
+## Postgres
+1. [Fastest Way to Load Data Into PostgreSQL Using Python](https://hakibenita.com/fast-load-data-python-postgresql)
+
+## Apache Airflow
+1. [Master Apache Airflow: How to Install and Setup the Environment in 10 Minutes](https://towardsdatascience.com/master-apache-airflow-how-to-install-and-setup-the-environment-in-10-minutes-61dad52d5239)
+2. [Master Apache Airflow: Write Your First DAG With Python in Minutes](https://towardsdatascience.com/master-apache-airflow-write-your-first-dag-with-python-in-minutes-6c50b5d4aab1)
+
+## Apache Spark
+1. [Creating a Spark Standalone Cluster with Docker and docker-compose(2021 update)](https://dev.to/mvillarrealb/creating-a-spark-standalone-cluster-with-docker-and-docker-compose-2021-update-6l4)
+2. [Jupyter docker apache spark](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/specifics.html)
+3. [PySpark Read and Write Parquet File](https://sparkbyexamples.com/pyspark/pyspark-read-and-write-parquet-file/)
+4. [Big Data Analyses with Machine Learning and PySpark](https://towardsdatascience.com/big-data-analyses-with-machine-learning-and-pyspark-135119ef6b31)
+
 ## Hadoop Ecosystem
 1. [Hadoop Ecosystem](https://medium.com/xnewdata/hadoop-ecosystem-e9288755cfa1)
 2. [Spark Fundamentals](https://cognitiveclass.ai/learn/spark)
