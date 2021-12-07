@@ -63,3 +63,4 @@
 
 # Database
 1. [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
+2. [4 Query Optimizer Concepts](https://docs.oracle.com/database/121/TGSQL/tgsql_optcncpt.htm#TGSQL192)
