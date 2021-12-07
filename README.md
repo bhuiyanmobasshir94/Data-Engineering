@@ -60,3 +60,6 @@
 
 ## Dashboard
 1. [Grafana](https://grafana.com/)
+
+# Database
+1. [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
