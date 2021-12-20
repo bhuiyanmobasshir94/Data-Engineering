@@ -64,3 +64,6 @@
 # Database
 1. [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
 2. [4 Query Optimizer Concepts](https://docs.oracle.com/database/121/TGSQL/tgsql_optcncpt.htm#TGSQL192)
+
+# Data Catalog
+1. [What is a data catalog](https://data.world/blog/what-is-a-data-catalog/)
