@@ -5,3 +5,5 @@
 5. [Refactoring Databases](https://martinfowler.com/books/refactoringDatabases.html)
 6. [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 7. [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
+8. [feedbackDevOps tech: Database change management](https://cloud.google.com/architecture/devops/devops-tech-database-change-management)***
+9. [Evolutionary Database Design](https://www.martinfowler.com/articles/evodb.html)***
