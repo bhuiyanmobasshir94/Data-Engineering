@@ -1,1 +1,7 @@
 1. [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+2. [Evolving a Database Schema](https://betterprogramming.pub/evolving-a-database-schema-10b7f4094d14)
+3. [How to Get Continuous Integration Right](https://medium.com/@nicolopigna/how-to-get-continuous-integration-right-77bda4bc0d1f)
+4. [Straight to Prod](https://betterprogramming.pub/straight-to-prod-ca12205841fc)
+5. [Refactoring Databases](https://martinfowler.com/books/refactoringDatabases.html)
+6. [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+7. [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
