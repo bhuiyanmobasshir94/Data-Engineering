@@ -32,6 +32,7 @@
 ## Apache Airflow
 1. [Master Apache Airflow: How to Install and Setup the Environment in 10 Minutes](https://towardsdatascience.com/master-apache-airflow-how-to-install-and-setup-the-environment-in-10-minutes-61dad52d5239)
 2. [Master Apache Airflow: Write Your First DAG With Python in Minutes](https://towardsdatascience.com/master-apache-airflow-write-your-first-dag-with-python-in-minutes-6c50b5d4aab1)
+3. [Passing Data Between Airflow Tasks](https://www.astronomer.io/guides/airflow-passing-data-between-tasks/)
 
 ## Apache Spark
 1. [Creating a Spark Standalone Cluster with Docker and docker-compose(2021 update)](https://dev.to/mvillarrealb/creating-a-spark-standalone-cluster-with-docker-and-docker-compose-2021-update-6l4)
