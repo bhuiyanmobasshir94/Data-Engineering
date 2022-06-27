@@ -71,3 +71,6 @@
 
 ## Data Reposotory
 1. [Database of Databases](https://dbdb.io/)
+
+## Blogs
+1. [Adnan's blog](http://blog.adnansiddiqi.me/tag/data-engineering/)
