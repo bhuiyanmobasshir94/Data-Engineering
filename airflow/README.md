@@ -2,3 +2,5 @@
 2. [How to Use Apache Airflow to Schedule and Manage Workflows](https://www.freecodecamp.org/news/how-to-use-apache-airflow-to-manage-workflows/)
 3. [Why Airflow is our go-to tool for modern workflow management](https://muttdata.ai/blog/2022/04/20/modern-workflow-management-with-airflow.html)
 4. [What Is Apache Airflow?](https://www.run.ai/guides/machine-learning-operations/apache-airflow)
+5. [An overview of Apache Airflow for workflow management](https://www.techtarget.com/searchitoperations/tip/An-overview-of-Apache-Airflow-for-workflow-management)
+6. [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html#production-readiness)
