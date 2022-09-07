@@ -1,1 +1,5 @@
 1. [Apache Kafka in the Public Sector — Part 2: Smart City](https://kai-waehner.medium.com/apache-kafka-in-the-public-sector-part-2-smart-city-cd06fde9a5ed)
+2. [Getting Started with Apache Kafka and Python](https://www.confluent.io/blog/getting-started-with-apache-kafka-in-python/)
+3. [django-logpipe](https://gitlab.com/thelabnyc/django-logpipe)
+4. [django-kafka-event-log](https://pypi.org/project/django-kafka-event-log/)
+5. [Building a realtime ticket booking solution with Kafka, FastAPI, and Ably](https://ably.com/blog/realtime-ticket-booking-solution-kafka-fastapi-ably)
