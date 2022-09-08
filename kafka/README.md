@@ -6,3 +6,4 @@
 6. [Apache Kafka real-time data streaming app tutorial](https://blog.logrocket.com/apache-kafka-real-time-data-streaming-app/)
 7. [Asynchronous Communication between Microservices with Apache Kafka](https://www.mitrais.com/news-updates/asynchronous-communication-between-microservices-with-apache-kafka/)
 8. [Quick Start for Confluent Platform](https://docs.confluent.io/platform/current/platform-quickstart.html)
+9. [What Is Apache Kafka?](https://developer.confluent.io/what-is-apache-kafka/?_ga=2.25941941.923942389.1662359675-1149112241.1661406747)
