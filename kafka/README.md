@@ -5,3 +5,4 @@
 5. [Building a realtime ticket booking solution with Kafka, FastAPI, and Ably](https://ably.com/blog/realtime-ticket-booking-solution-kafka-fastapi-ably)
 6. [Apache Kafka real-time data streaming app tutorial](https://blog.logrocket.com/apache-kafka-real-time-data-streaming-app/)
 7. [Asynchronous Communication between Microservices with Apache Kafka](https://www.mitrais.com/news-updates/asynchronous-communication-between-microservices-with-apache-kafka/)
+8. [Quick Start for Confluent Platform](https://docs.confluent.io/platform/current/platform-quickstart.html)
