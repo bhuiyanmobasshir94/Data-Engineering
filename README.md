@@ -77,3 +77,6 @@
 
 ## Blogs
 1. [Adnan's blog](http://blog.adnansiddiqi.me/tag/data-engineering/)
+
+## Apache Arrow
+1. [How Query Engines Work](https://howqueryengineswork.com/02-apache-arrow.html)
