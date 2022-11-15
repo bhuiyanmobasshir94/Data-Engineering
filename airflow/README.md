@@ -4,3 +4,5 @@
 4. [What Is Apache Airflow?](https://www.run.ai/guides/machine-learning-operations/apache-airflow)
 5. [An overview of Apache Airflow for workflow management](https://www.techtarget.com/searchitoperations/tip/An-overview-of-Apache-Airflow-for-workflow-management)
 6. [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html#production-readiness)
+7. [Scheduler](https://airflow.apache.org/docs/apache-airflow/stable/concepts/scheduler.html#scheduler-tuneables)
+8. [Stackoverflow Thread](https://stackoverflow.com/a/69241898/7195890)
