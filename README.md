@@ -26,6 +26,7 @@
 25. [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 26. [17 Strategies for Dealing with Data, Big Data, and Even Bigger Data](https://towardsdatascience.com/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)
 27. [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+28. [Writing data to production is a contract that isn't free!](https://eczachly.substack.com/p/writing-data-to-production-is-a-contract?utm_campaign=post&utm_medium=web)
 
 ## Postgres
 1. [Fastest Way to Load Data Into PostgreSQL Using Python](https://hakibenita.com/fast-load-data-python-postgresql)
